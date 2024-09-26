@@ -2,6 +2,17 @@
 
 I am a computer science master student at UNIST, a top institute of science and technology in South Korea.
 
+- 🔭 I’m currently a master student researcher at [Ahrilab](https://sites.google.com/view/ahri-lab)
+
+- 💬 Ask me about **Machine learning, deep learning, reinforcement learning and robotics**
+
+- 📫 How to reach me: **xiyana.ai@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://kr.linkedin.com/in/xiyana-v-figuera-m-087885318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://kr.linkedin.com/in/xiyana-v-figuera-m-087885318" height="30" width="40" /></a>
+</p>
+
 <!--
 **xiyanafiguera/xiyanafiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
