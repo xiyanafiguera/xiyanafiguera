@@ -1,5 +1,7 @@
 # Hello, my name is Xiyana Figuera 👋
 
+I am a computer science master student at UNIST, a top institute of science and technology in South Korea.
+
 <!--
 **xiyanafiguera/xiyanafiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
