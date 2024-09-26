@@ -1,6 +1,6 @@
 # Hello, my name is Xiyana Figuera 👋
 
-I am a computer science master student at UNIST, a top institute of science and technology in South Korea.
+I am a computer science master student at [UNIST](https://www.unist.ac.kr/), a top institute of science and technology in South Korea.
 
 - 🔭 I’m currently a master student researcher at [Ahrilab](https://sites.google.com/view/ahri-lab)
 
