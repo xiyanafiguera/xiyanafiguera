@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 
 </p>
 
+## Research
 <h3 align="left">Research:</h3>
 
