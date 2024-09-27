@@ -56,3 +56,6 @@ Here are some ideas to get you started:
 ## Research
 <h3 align="left">Research:</h3>
 
+<a href="https://sites.google.com/view/mr-hubo/"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
