@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 </p>
 
 ## Research
-<h3 align="left">Research:</h3>
+<h3 align="left">IROS 2024: Redefining data pairing for Motion Retargeting Leveraging a Human Body Prior</h3>
 
 [//]: # (<a href="https://sites.google.com/view/mr-hubo/"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>)
 
 <a href="https://sites.google.com/view/mr-hubo/"><img src="https://github.com/user-attachments/assets/b802df40-b9eb-4fe3-b06c-8156f084b54f" style="height: 70%; width:70%;"/></a>
 
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
+[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/ahrilab/MR-HuBo)
