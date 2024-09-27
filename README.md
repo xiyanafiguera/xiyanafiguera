@@ -58,6 +58,5 @@ Here are some ideas to get you started:
 
 <a href="https://sites.google.com/view/mr-hubo/"><img src="https://github.com/user-attachments/assets/b802df40-b9eb-4fe3-b06c-8156f084b54f" style="height: 70%; width:70%;"/></a>
 
-[//]: # ([![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/ahrilab/MR-HuBo))
 
 
