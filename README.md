@@ -1,7 +1,7 @@
 # Hello, my name is Xiyana Figuera 👋
 ### AI & Robotics researcher
 
-<a href="https://roomy-chair-ad8.notion.site/Xiyana-Figuera-f4251c4f60d645e7a879ec363bf017f6?pvs=74"><![https://github.com/xiyanafiguera](./github_profile_3.webp)/></a>
+<a href="https://roomy-chair-ad8.notion.site/Xiyana-Figuera-f4251c4f60d645e7a879ec363bf017f6?pvs=74"> ![https://github.com/xiyanafiguera](./github_profile_3.webp)</a>
 
 I am a computer science master student at [UNIST](https://www.unist.ac.kr/), a top institute of science and technology in South Korea.
 
