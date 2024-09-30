@@ -1,7 +1,7 @@
 # Hello, my name is Xiyana Figuera 👋
 ### AI & Robotics researcher
 
-![https://github.com/xiyanafiguera](./github_profile_3.webp)
+<a href="https://sites.google.com/view/mr-hubo/"><img src=![https://github.com/xiyanafiguera](./github_profile_3.webp) style="height: 70%; width:70%;"/></a>
 
 I am a computer science master student at [UNIST](https://www.unist.ac.kr/), a top institute of science and technology in South Korea.
 
