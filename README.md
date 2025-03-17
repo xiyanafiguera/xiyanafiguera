@@ -3,10 +3,8 @@
 
 <a href="https://roomy-chair-ad8.notion.site/Xiyana-Figuera-f4251c4f60d645e7a879ec363bf017f6?pvs=74"> ![https://github.com/xiyanafiguera](./github_profile_3.webp)</a>
 
-I am a computer science master student at [UNIST](https://www.unist.ac.kr/), a top institute of science and technology in South Korea.
-
-- 🔭 I’m currently a graduate student researcher at [Ahrilab](https://sites.google.com/view/ahri-lab)
-
+- 🔭 I graduated with a master's degree in Computer Science from [UNIST](https://www.unist.ac.kr/), a top research Institute of Science and Technology in South Korea 
+  
 - 💬 Ask me about **Machine learning, deep learning, reinforcement learning and robotics**
 
 - 📫 How to reach me: **xiyana.ai@gmail.com**
