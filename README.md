@@ -1,64 +1,65 @@
-# Hello, my name is Xiyana Figuera 👋
-### AI & Robotics researcher
+# Hi, I'm Xiyana Figuera 👋
 
-<!--
-<a href="https://roomy-chair-ad8.notion.site/Xiyana-Figuera-f4251c4f60d645e7a879ec363bf017f6?pvs=74"> ![https://github.com/xiyanafiguera](./github_profile_3.webp)</a>
--->
+### Multimodal AI Researcher & Engineer
 
-- 🔭 I graduated with a master's degree in Computer Science from [UNIST](https://www.unist.ac.kr/), a top research Institute of Science and Technology in South Korea 
-  
-- 💬 Ask me about **Machine learning, deep learning, reinforcement learning and robotics**
+I work across **Vision-Language Models, Computer Vision, Reinforcement Learning, and human-centered AI**, combining research with hands-on AI engineering.
 
-- 📫 How to reach me: **xiyana.ai@gmail.com**
+My research has progressed from supervised human-to-robot motion learning to **RLHF and preference-based learning**, and more recently toward **multimodal systems that can learn and adapt from limited interaction and feedback**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/xiyana-ia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/xiyana-ia/" height="30" width="40" /></a>
-</p>
+## 🔬 Research
 
-<!--
-**xiyanafiguera/xiyanafiguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First Author — IROS 2024**
 
-Here are some ideas to get you started:
+My work on **MR.HuBo** explored scalable supervised human-to-robot motion retargeting through paired-data generation and human-body-prior filtering, with real-time deployment on a physical robot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My Master's thesis extended this direction through **RLHF**, learning a reward model from pairwise human preferences and using PPO for semantic post-refinement of retargeted motion.
 
+I also explored **motion-language alignment** using Transformer-based motion and text representations and semantic similarity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="unity" width="40" height="40"/> </a> 
--->
+## 💻 AI Engineering
 
+Beyond research, I have worked on real-world **Computer Vision and Vision-Language systems** for industrial data, including:
 
-</p>
+- VLM-based OCR and multimodal data pipelines
+- 4-bit QLoRA fine-tuning
+- YOLO and RT-DETR object detection
+- Dataset engineering and model evaluation
+- GPU/on-premise AI deployment
+- Model optimization and inference workflows
 
-## Research
-<h3 align="left">IROS 2024: Redefining data pairing for Motion Retargeting Leveraging a Human Body Prior</h3>
+I'm currently expanding this work toward **production multimodal inference, model serving, and adaptive AI systems**.
 
-<a href="https://sites.google.com/view/mr-hubo/"><img src="https://github.com/user-attachments/assets/b802df40-b9eb-4fe3-b06c-8156f084b54f" style="height: 70%; width:70%;"/></a>
+## 🎯 Current Interests
 
+**Self-improving multimodal agents · Vision-Language Models · Reinforcement Learning · Human/AI Feedback · Continual Adaptation · Efficient AI Systems**
+
+I'm particularly interested in how multimodal agents can acquire useful evidence, learn from limited or imperfect feedback, and make effective adaptation decisions under resource constraints.
+
+## 🛠️ Core Stack
+
+**AI / ML**  
+PyTorch · Hugging Face · VLMs · QLoRA · RLHF/PPO · YOLO · RT-DETR
+
+**Engineering**  
+Python · C++ · SQL · Docker · Git · ONNX · W&B · TensorBoard · Optuna
+
+**Embodied AI**  
+ROS2 · MuJoCo · PyBullet
+
+## 📄 Selected Research
+
+### MR.HuBo — IROS 2024
+
+**Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior**
+
+First-author research on scalable paired-data generation and supervised human-to-robot motion retargeting.
+
+👉 [Project Page](https://sites.google.com/view/mr-hubo/)
+
+## 🌐 Connect
+
+- Portfolio: https://anakmaxiy-robotics.com/
+- LinkedIn: https://www.linkedin.com/in/xiyana-ia/
+- Email: xiyana.ai@gmail.com
 
 
